@@ -17,12 +17,10 @@ You can read my CV [@Itsindigo/CV](https://github.com/Itsindigo/CV)
   - Healthy, open communication is essential, bonus points if it's asynchronous with a heavy slant towards written communication
   - Great engineering culture is bottom-up, not top-down
 
-### 🪭 I'm a big fan of ...
+### 💻 Some Software Practices I love ...
   - [Directly Responsible Individuals!](https://handbook.gitlab.com/handbook/people-group/directly-responsible-individuals/)
   - [Stacked PRs!](https://graphite.dev/blog/stacked-prs)
   - [Review your own code before anyone else does!](https://x.com/EatsIndigo/status/1803290158185222255)
-
-### 💻 Some Software Practices I love ...
   - [Cloud](https://tilt.dev/) [Native](https://skaffold.dev/) [Environments](https://kustomize.io/)
   - [Distributed Task Processors](https://docs.temporal.io/)
   - [The Ports and Adapters Pattern (Hexagonal Architectures!)](https://8thlight.com/insights/a-color-coded-guide-to-ports-and-adapters)
