@@ -32,6 +32,9 @@ You can read my CV [@Itsindigo/CV](https://github.com/Itsindigo/CV)
   - Nifty little tools that simplify every day tasks
   - Seeing a project through the full life-cycle, from "Is this even possible?" though to a production service supported with real-time monitoring.
 
+### ⛩️ Some other things I believe ...
+  - Fostering a healthy level of self-esteem, and prioritising good sleep above all else will take you farther than anything else you're doing
+
 ### ⚡️ Fun fact ...
   - I ran my first marathon this year!
 
