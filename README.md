@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name's Matt, and I'm available for hire! I'm on the look out for Senior/Staff level opportunities at Series A/B growth-stage startups. I love to ship software that's a dream to pilot. Here are some places you can reach me:
+My name's Matt, and I'm available for hire! I'm on the look out for Senior/Staff level opportunities at Series A/B growth-stage startups, and bonus points if you're building with Golang. Here are some places you can reach me:
 
  *  On X [@EatsIndigo](https://x.com/EatsIndigo)
  *  On LinkedIn [@matthew-bridges](https://www.linkedin.com/in/matthew-bridges/)
