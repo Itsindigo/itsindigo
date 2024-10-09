@@ -31,7 +31,8 @@ You can read my CV [@Itsindigo/CV](https://github.com/Itsindigo/CV)
   - Seeing a project through the full life-cycle, from "Is this even possible?" though to a production service supported with real-time monitoring.
 
 ### ⛩️ Some other things I believe ...
-  - Fostering a healthy level of self-esteem, and prioritising good sleep above will take you farther than anything else you're doing. This can otherwise be summarised as enjoyment of the journey and not the goal. Or other Taoist ideas.
+  - Fostering a healthy level of self-esteem, and prioritising good sleep will take you farther than anything else you're doing.
+  - I try to remember to enjoy the journey and not to be overly focussed the goal. And broadly aim to follow other taoist ideas.
 
 ### ⚡️ Fun fact ...
   - I ran my first marathon this year!
