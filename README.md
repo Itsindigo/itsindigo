@@ -9,7 +9,7 @@ You can read my CV [@Itsindigo/CV](https://github.com/Itsindigo/CV)
 
 ### 🌱 I’m currently learning ...
   - How to write _really_ effective Go
-  - What's possible with LLM's on stacks like LangChain
+  - What's possible with LLM's
 
 ### 🔎 Some things I believe about writing great software ...
   - Prototyping is the best way to share and validate ideas
