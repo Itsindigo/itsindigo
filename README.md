@@ -24,7 +24,7 @@ You can read my CV [@Itsindigo/CV](https://github.com/Itsindigo/CV)
   - [Cloud](https://tilt.dev/) [Native](https://skaffold.dev/) [Environments](https://kustomize.io/)
   - [Distributed Task Processors](https://docs.temporal.io/)
   - [The Ports and Adapters Pattern (Hexagonal Architectures!)](https://8thlight.com/insights/a-color-coded-guide-to-ports-and-adapters)
-  - [Low Abstraction](https://github.com/sqlc-dev/sqlc)[SQL ORMS](https://github.com/gajus/slonik)
+  - [Low Abstraction](https://github.com/sqlc-dev/sqlc) [SQL ORMS](https://github.com/gajus/slonik)
 
 ### 🛠️ My favourite things to work on are ...
   - Nifty little tools that simplify every day tasks
