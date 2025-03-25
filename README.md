@@ -28,13 +28,13 @@ You can read my CV [@Itsindigo/CV](https://github.com/Itsindigo/CV)
 
 ### 🛠️ My favourite things to work on are ...
   - Nifty little tools that simplify every day tasks
-  - Seeing a project through the full life-cycle, from "Is this even possible?" though to a production service supported with real-time monitoring.
+  - Seeing a project through the full life-cycle, from "Is this even possible?" though to a production service, scaled to many users, supported with real-time monitoring and observability.
 
 ### ⛩️ Some other things I believe ...
   - Fostering a healthy level of self-esteem, and prioritising good sleep will take you farther than anything else you're doing.
   - I try to remember to enjoy the journey and not to be overly focussed the goal. And broadly aim to follow other taoist ideas.
 
 ### ⚡️ Fun fact ...
-  - I ran my first marathon this year!
+  - I ran my first marathon ~this~ last year! Yeesh, I should really get to work on something else.
 
   
